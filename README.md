@@ -7,3 +7,4 @@
 https://github.com/elevy99927/docker/tree/main/03-docker-multistage - home work 
 
 https://github.com/elevy99927/docker/tree/main/03-docker-multistage
+bash  minikube start -install on cloud google k8s
